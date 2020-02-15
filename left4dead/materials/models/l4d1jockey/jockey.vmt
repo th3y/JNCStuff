@@ -1,0 +1,8 @@
+vertexlitgeneric
+{
+$basetexture "models\l4d1jockey\jockey_body_color"
+
+$rimlight 1
+$rimlightexponent 4
+$rimlightboost 1
+}
